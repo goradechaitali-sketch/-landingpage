@@ -1,0 +1,43 @@
+
+#main{ 
+     background-size: cover;
+     background-color: rgb(160, 160, 160);
+     position: absolute;
+     height: 770px;
+     width: 690px;
+     
+     
+}
+#new1{
+    background-size: cover;
+    height: 770px;
+    width: 970px;
+    left: 560px;
+    position: absolute;
+     background-image: url(/blur.jpg);
+}
+#new2{
+    background-image: url(/white.jpg);
+    background-size: cover;
+     background-color: rgb(160, 159, 159);
+     position: absolute;
+     top: 215px;
+     height: 260px;
+     width: 260px;
+     left:620px
+     
+     
+}
+
+#new3{
+     position: absolute;
+     top: 100px;
+     height: 730px;
+     width: 550px;
+     left: 220px;
+     color: rgb(249, 250, 251);
+     text-transform: uppercase;
+     font-size: 90px;
+     letter-spacing: 14px;
+}
+    
